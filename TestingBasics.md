@@ -1,4 +1,4 @@
-#Testing
+# Testing
 - Debugging - cannot debug without first testing
 - Cannot guarantee correctness, can only prove wrongness
 - Ideally developer and tester should be different people
